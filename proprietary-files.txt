@@ -412,14 +412,14 @@ vendor/lib64/hw/keystore.msm8998.so
 vendor/lib/hw/sound_trigger.primary.msm8998.so
 vendor/lib/libsmwrapper.so
 
-# Media
--vendor/lib/libgpustats.so
-vendor/lib/libOmxEvrcDec.so
-vendor/lib/libOmxVpp.so
-vendor/lib/libvpphvx.so
-vendor/lib/libvpplibrary.so
-vendor/lib/libvqzip.so
--vendor/lib64/libgpustats.so
+# Media  | from OP5t
+-vendor/lib/libgpustats.so|138dce3b7ac0c5c080acb122f2dfd1a70037d9aa
+vendor/lib/libOmxEvrcDec.so|347a010c009c6410f38ee9180c10cac4ade1206b
+vendor/lib/libOmxVpp.so|d252e70041557f149fc5493e5336889f15d6d348
+vendor/lib/libvpphvx.so|73fe8a025b63960da5e1d188da71736bde0a86b3
+vendor/lib/libvpplibrary.so|a8dcd89246ea7f534597f8dd2206fb9314189ab1
+vendor/lib/libvqzip.so|c1c4f35456ff34b4baba373f18ed034a7d1e2721
+-vendor/lib64/libgpustats.so|429e9048389f9062702649e083ec53386966f93f
 
 # NFC firmware
 vendor/lib/libpn553_fw.so|d032117e6645395327a5acd236bfd1bec56569c0
